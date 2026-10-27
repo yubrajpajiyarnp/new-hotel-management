@@ -173,3 +173,4 @@ npm run db:reset   # Reset database
 **Version**: 1.0.0 (Phase 1)  
 
 🍽️ **Built for restaurants, by developers who care!**
+# New_resturant_hotel_system
